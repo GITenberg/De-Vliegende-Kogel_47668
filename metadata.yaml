@@ -1,12 +1,18 @@
 _repo: De-Vliegende-Kogel_47668
+_version: 0.1.0
 contributor:
   illustrator: &id001
     agent_name: Rinke, Jan
     gutenberg_agent_id: '44420'
     url: http://www.gutenberg.org/2009/agents/44420
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author: *id001
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47668#De-Vliegende-Kogel
 gutenberg_issued: '2014-12-14'
 gutenberg_type: Text
 identifiers:
